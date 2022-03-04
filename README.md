@@ -5,7 +5,7 @@
   <h5> - 🌱 I’m currently learning ... Spring framework </h5>
   
   <h3> BOJ Information </h3>
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">
+  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">
 
 <!---
 arcane22/arcane22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
