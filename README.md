@@ -1,7 +1,7 @@
   <h3> Arcane22 Github </h3>
   <h5> - 👋 Hi, I’m Lee Hong Jun (hong3883@naver.com) </h5>
   <h5> - 📫 Univ.: Ajou Univ., Major: Digital Media (4.13 / 4.32 / 122) </h5>
-  <h5> - 👀 I’m interested in ... Game Client(Unity), Backend(Java(Spring Framework), Node.js) </h5>
+  <h5> - 👀 I’m interested in ... Game Client(Unity, C#), Backend(Spring Framework, Java), (Node.js)) </h5>
   <h5> - 🌱 I’m currently learning ... Spring framework </h5>
   
   <h3> BOJ Information </h3>
