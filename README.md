@@ -1,4 +1,4 @@
-  <h3> ARC4NE22 Github </h3>
+  <h3> arcane222 Github </h3>
   <h5> - 👋 Hi, I’m Lee Hong Jun (hong3883@naver.com) </h5>
   <h5> - 📫 Univ.: Ajou Univ., Major: Digital Media (4.13 / 4.32 / 132) </h5>
   <h5> - 👀 I’m interested in ... Game Client(Unity, C#), Backend(Spring Framework, Node.js)) </h5>
