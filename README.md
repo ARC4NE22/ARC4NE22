@@ -1,6 +1,8 @@
   <h3> arcane222 Github </h3>
+  ![arcane222's github stats](https://github-readme-stats.vercel.app/api?username=arcane222&show_icons=true)
+  
   <h5> - 👋 Hi, I’m Lee Hong Jun (hong3883@naver.com) </h5>
-  <h5> - 📫 Univ.: Ajou Univ., Major: Digital Media (4.15 / 4.32 / 132) </h5>
+  <h5> - 📫 Univ.: Ajou Univ., Major: Digital Media (gpa 4.15 / 4.5) </h5>
   <h5> - 👀 I’m interested in ... Game Client(Unity, C#), Backend(Spring Framework, Node.js)) </h5>
   <h5> - 🌱 I’m currently learning ... Spring framework </h5>
   
