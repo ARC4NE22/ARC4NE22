@@ -1,13 +1,9 @@
 # 🌱 arcane222
  - 카멜레온과 같은 개발자가 되고 싶은 arcane222 (이홍준) 입니다. 👀👋🌱📫
 
- <br>
-
 # 📌 Profile
  - Ajou Univ. Digital Media (4.15 / 4.5)
  - Email - hong3883@naver.com
-
-<br>
 
 # 📌 BOJ
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22)](https://solved.ac/arcane22/)
@@ -19,9 +15,6 @@
  - 1000솔 달성하기 
  - Diamond 5 달성하기
  - 삼성 SW 역량 테스트 B형(Pro) 취득하기
-
-<br>
-
 
 # 📌 Study, Skills
 
@@ -36,8 +29,6 @@
 - Github
 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/VS code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white">
-
-<br>
 
 ## [ Back-end ]
 ### Framework
@@ -75,5 +66,3 @@
   - Android Studio
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
-
-<br>
