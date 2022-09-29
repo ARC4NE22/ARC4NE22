@@ -10,8 +10,10 @@
 <br>
 
 # 📌 BOJ
-  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">
-<br>
+  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">  
+
+  <br>
+
 
 ### Current Progress
  - 1일 1솔 + 1일 1커밋 하기 !
