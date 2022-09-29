@@ -10,7 +10,7 @@
 <br>
 
 # 📌 BOJ
-  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22)](https://solved.ac/arcane22/)
 
   <br>
 
