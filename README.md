@@ -1,14 +1,54 @@
-  <h3> arcane222 Github </h3>
-  
-  <h5> - 👋 Hi, I’m Lee Hong Jun (hong3883@naver.com) </h5>
-  <h5> - 📫 Univ.: Ajou Univ., Major: Digital Media (gpa 4.15 / 4.5) </h5>
-  <h5> - 👀 I’m interested in ... Game Client(Unity, C#), Backend(Spring Framework, Node.js)) </h5>
-  <h5> - 🌱 I’m currently learning ... Spring framework </h5>
-  
-  <h3> BOJ Information </h3>
-  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">
+# 🌱 arcane222
+ - 카멜레온과 같은 개발자가 되고 싶은 arcane222 (이홍준) 입니다. 👀👋🌱📫
 
-<!---
-arcane22/arcane22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <br>
+
+# 📌 Profile
+ - Ajou Univ. Digital Media (4.15 / 4.5)
+ - Email - hong3883@naver.com
+
+<br>
+
+# 📌 BO
+ -   <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">
+ - 1일 1솔 + 1일 1커밋 하기 !
+### Next Goal 
+ - 1000솔 달성하기 
+ - Diamond 5 달성하기
+ - 삼성 SW 역량 테스트 B형(Pro) 취득하기
+
+<br>
+
+
+# 📌 Study, Skills
+
+## [ Game Client ]
+### Engine
+- Unity 3D (C#)
+- XR Founction, AR Core
+- UGS (Unity Gameing Service, Netcode for gameobject)
+### Dev. environment
+- VS code, Rider
+- Github
+
+## [ Back-end ]
+### Framework
+ - Node.js (JavaScript)
+ - Express, Sequelize, Socket.IO
+ - Spring framework (JAVA) (📫 공부중!)
+ - MySQL
+
+### Dev. environment
+ - VS code, IntelliJ
+ - Github
+
+## [ 공부해본 것들 ]
+### Image Processing, Computer Vision
+ - OpenCV, Python (cv2, numpy, pyplot)
+ - Dev. environment: Pycharm
+### Computer Graphics
+ - OpenGL, C++ (GLFW, GLEW, GLM)
+ - Vertex Shader, Fragment Shader (Pixel Shader)
+ - Dev. environment: Visual Studio
+
+<br>
