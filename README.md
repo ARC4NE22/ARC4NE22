@@ -10,7 +10,7 @@
 <br>
 
 # 📌 BOJ
-  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">  
+  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">
 
   <br>
 
