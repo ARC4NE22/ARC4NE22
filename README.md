@@ -1,9 +1,11 @@
 # 🌱 arcane222
- - 카멜레온과 같은 개발자가 되고 싶은 arcane222 (이홍준) 입니다. 👀👋🌱📫
+ - 카멜레온과 같은 개발자가 되고 싶은 arcane222 (이홍준) 입니다. 👋
 
 # 📌 Profile
  - Ajou Univ. Digital Media (4.15 / 4.5)
  - Email - hong3883@naver.com
+ 
+ <br>
 
 # 📌 BOJ
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22)](https://solved.ac/arcane22/)
@@ -15,6 +17,8 @@
  - 1000솔 달성하기 
  - Diamond 5 달성하기
  - 삼성 SW 역량 테스트 B형(Pro) 취득하기
+ 
+<br>
 
 # 📌 Study, Skills
 
