@@ -9,10 +9,14 @@
 
 <br>
 
-# 📌 BO
- -   <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">
+# 📌 BOJ
+  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22">
+<br>
+
+### Current Progress
  - 1일 1솔 + 1일 1커밋 하기 !
-### Next Goal 
+
+### Next Goal
  - 1000솔 달성하기 
  - Diamond 5 달성하기
  - 삼성 SW 역량 테스트 B형(Pro) 취득하기
