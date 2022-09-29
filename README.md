@@ -11,10 +11,7 @@
 
 # 📌 BOJ
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane22)](https://solved.ac/arcane22/)
-
-  <br>
-
-
+  
 ### Current Progress
  - 1일 1솔 + 1일 1커밋 하기 !
 
@@ -33,9 +30,14 @@
 - Unity 3D (C#)
 - XR Founction, AR Core
 - UGS (Unity Gameing Service, Netcode for gameobject)
+
 ### Dev. environment
 - VS code, Rider
 - Github
+
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/VS code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white">
+
+<br>
 
 ## [ Back-end ]
 ### Framework
@@ -48,13 +50,30 @@
  - VS code, IntelliJ
  - Github
 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=Socket.io&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+
 ## [ 공부해본 것들 ]
 ### Image Processing, Computer Vision
- - OpenCV, Python (cv2, numpy, pyplot)
- - Dev. environment: Pycharm
+ - OpenCV (Python) 
+ - cv2, numpy, pyplot
+ - Pycharm
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white">
+
 ### Computer Graphics
- - OpenGL, C++ (GLFW, GLEW, GLM)
+ - OpenGL (C++) 
+ - GLFW, GLEW, GLM
  - Vertex Shader, Fragment Shader (Pixel Shader)
- - Dev. environment: Visual Studio
+ - Visual Studio
+
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
+
+ ### Mobile Programming
+  - Android (JAVA)
+  - Android Studio
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
 
 <br>
